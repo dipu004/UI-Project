@@ -1,0 +1,30 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.banner-container{
+height: 680px;
+width: 1200px;
+margin: 120px auto;
+}
+.icons{
+display: flex;
+justify-content: center;
+margin-top: 28px;
+gap: 20px;
+}
+.banner-container{
+ display: flex;
+ text-align: center;
+ align-items: center;
+}
+.paragraph-title{
+margin-top: 10px;
+margin-bottom: 20px;
+}
+.title-2{
+margin-top: 10px;
+}
+.images , img{
+border-radius: 20px;
+}
